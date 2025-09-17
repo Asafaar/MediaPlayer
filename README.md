@@ -11,8 +11,11 @@ A web-based video player with FastAPI backend and React frontend. Control video 
 - Timestamp and speed overlays on video
 
 ## Installation
-
-### Backend (Python)
+```bash
+git clone https://github.com/Asafaar/MediaPlayer
+cd MediaPlayer
+```
+### Backend (Python) 
 ```bash
 cd backend
 pip install -r requirements.txt
